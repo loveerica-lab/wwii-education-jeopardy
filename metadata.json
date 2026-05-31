@@ -1,0 +1,6 @@
+{
+  "name": "WWII Education Jeopardy",
+  "description": "An interactive, fun Jeopardy-style game designed for 4th graders exploring how World War II transformed schools, education acts, and global systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
